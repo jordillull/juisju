@@ -6,7 +6,21 @@
 
 
 
+#guesser {
+}
 
+#guesser h1 {
+  margin-bottom: 10px;
+} 
+
+#last_person {
+  text-align: left;
+  font-size: 14px;
+}
+
+#main_person {
+  text-align: center; 
+}
 
 
 
