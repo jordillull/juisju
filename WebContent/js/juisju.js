@@ -360,6 +360,15 @@ var data = { "people":
       "movie"      : "Iron Man 3",
       "superpower" : "root",
       "photo"      : "http://29.media.tumblr.com/tumblr_lhv84py3Ff1qzj3syo1_500.jpg",
+    },{
+      "name"       : "Alessandra Navarro",
+      "birthdate"  : "1975-01-16",
+      "startdate"  : "2013-02-18",
+      "country"    : "Brasil",
+      "food"       : "Churrasco / Asado",
+      "movie"      : "Ghost",
+      "superpower" : "volar",
+      "photo"      : "http://25.media.tumblr.com/tumblr_litk67P87K1qaa50yo1_500.jpg",
     }
 //    {
 //      "name"       : "",
